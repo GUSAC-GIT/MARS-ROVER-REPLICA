@@ -14,6 +14,7 @@
 
 - [Components](#components)
 - [Description](#description)
+- [Team Info](#team-info)
 
 
 
@@ -48,7 +49,7 @@ In March 2018, it celebrated 2,000 sols (Mars days) on the planet, making its wa
 ---
 
 
-## Author Info
+## Team Info
 
 Gusac Projects Team
 
